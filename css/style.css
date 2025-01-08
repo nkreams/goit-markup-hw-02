@@ -1,3 +1,6 @@
+.bodymain {
+  text-decoration: none;
+}
 .headhead {
   background-color: #2e2f42;
   width: 1440px;
@@ -29,7 +32,4 @@
   text-align: left;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-}
-a {
-  text-decoration: none;
 }
