@@ -4,3 +4,29 @@
   height: 600px;
   top: 72px;
 }
+.web {
+  color: #4d5ae5;
+  width: 44px;
+  height: 21px;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.stud {
+  color: #2e2f42;
+  width: 71px;
+  height: 21px;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
