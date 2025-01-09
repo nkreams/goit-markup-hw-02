@@ -9,7 +9,6 @@ a {
 }
 ul {
   list-style-type: none;
-  padding-left: 0;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -20,12 +19,28 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.textlogo {
+.headerlogo .textlogo {
   color: #2e2f42;
 }
-.mainspis {
+.navilink {
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.contact {
+  font-style: normal;
+}
+.contlink {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.navilink:hover,
+.navilink:focus,
+.contlink:hover,
+.contlink:focus {
+  color: #404bbf;
 }
