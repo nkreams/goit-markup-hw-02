@@ -44,7 +44,7 @@ ul {
 .contlink:focus {
   color: #404bbf;
 }
-.mainsect {
+.sectone {
   background-color: #2e2f42;
 }
 .mainheadss {
@@ -66,7 +66,7 @@ ul {
 .butmain:focus {
   background-color: #404bbf;
 }
-.mainsecttwo {
+.secttwo {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
