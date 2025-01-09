@@ -62,6 +62,10 @@ ul {
   color: #ffffff;
   cursor: pointer;
 }
+.butmain:hover,
+.butmain:focus {
+  background-color: #404bbf;
+}
 .mainsecttwo {
   font-weight: 500;
   font-size: 20px;
