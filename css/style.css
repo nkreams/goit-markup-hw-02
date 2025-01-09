@@ -10,7 +10,7 @@ a {
 ul {
   list-style-type: none;
 }
-.logo {
+.headerlogo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -19,7 +19,7 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.headerlogo .textlogo {
+.logo .textlogo {
   color: #2e2f42;
 }
 .navilink {
