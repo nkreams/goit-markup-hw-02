@@ -127,8 +127,9 @@ ul {
   color: #4d5ae5;
 }
 .footerprag {
-  line-height: 1.5;
-  color: #f4f4fd;
+  font-size: 16px;
+  color: #f4f4f4;
+  line: height 24px;
   letter-spacing: 0.02em;
 }
 .spanlogo {
